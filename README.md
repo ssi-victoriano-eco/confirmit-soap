@@ -51,7 +51,7 @@
 * [x] Add `Authoring` class methods
 * [ ] Add `SurveyData` class methods
 * [ ] Add `TaskManagement` class methods
-* [ ] Add `QuotaManagement` class methods
+* [x] Add `QuotaManagement` class methods
 * [ ] Add `SurveyDeployer` class methods
 * [ ] Add `DataTransfer` class methods
 * [ ] Add `DatabaseDesigner` class methods
