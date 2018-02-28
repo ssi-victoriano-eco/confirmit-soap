@@ -5,10 +5,14 @@ from core.ConfirmitCore import ConfirmitCore
 from .LogOn import LogOn
 
 class QuotaManagement(ConfirmitCore):
+  """
+  Confirmit QuotaManagementAPI
+  """
+
   def __init__(self):
     self.logon = LogOn()
     self.key = self.logon.LogOnUser(ConfirmitCore.USERNAME, ConfirmitCore.PASSWORD)
-    self.wsdl = ConfirmitCore.WSDL['authoring']
+    self.wsdl = ConfirmitCore.WSDL['quotamanagement']
 
   def AdjustQuotaTarget(self, projectId=None, quotaName=None, quotaRowId=None, deltaTarget=None):
     """
