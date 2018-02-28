@@ -23,7 +23,7 @@
 ## TODO
 
 * [x] Add `LogOn` class methods
-* [ ] Add `Authoring` class methods
+* [x] Add `Authoring` class methods
 * [ ] Add `SurveyData` class methods
 * [ ] Add `TaskManagement` class methods
 * [ ] Add `QuotaManagement` class methods
