@@ -49,7 +49,7 @@
 
 * [x] Add `LogOn` class methods
 * [x] Add `Authoring` class methods
-* [ ] Add `SurveyData` class methods
+* [x] Add `SurveyData` class methods
 * [ ] Add `TaskManagement` class methods
 * [ ] Add `QuotaManagement` class methods
 * [ ] Add `SurveyDeployer` class methods
