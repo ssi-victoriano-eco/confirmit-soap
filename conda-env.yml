@@ -1,0 +1,6 @@
+name: rnd-confirmit-soap
+dependencies:
+  - python=3.6
+  - pip:
+    - lxml
+    - zeep
