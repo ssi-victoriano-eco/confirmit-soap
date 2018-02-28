@@ -25,7 +25,7 @@ class Authoring(ConfirmitCore):
       Project-ID for the new project
     """
     if isPanel is None:
-      raise Exception('isPanel missing')
+      raise Exception('Please specify isPanel')
     
     return self.GetClient().AddProject(self.key, isPanel)
   
