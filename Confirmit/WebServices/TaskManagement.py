@@ -4,8 +4,9 @@ sys.path.append(os.path.abspath('../../'))
 from core.ConfirmitCore import ConfirmitCore
 from .LogOn import LogOn
 
-class Authoring(ConfirmitCore):
-  
+class TaskManagement(ConfirmitCore):
+  """
+  """
   def __init__(self):
     self.logon = LogOn()
     self.key = self.logon.LogOnUser(ConfirmitCore.USERNAME, ConfirmitCore.PASSWORD)

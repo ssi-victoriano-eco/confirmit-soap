@@ -54,7 +54,7 @@
 * [x] Add `QuotaManagement` class methods
 * [x] Add `SurveyDeployer` class methods
 * [x] Add `DataTransfer` class methods
-* [ ] Add `DatabaseDesigner` class methods
+* [x] Add `DatabaseDesigner` class methods
 * [ ] Add `SampleManagement` class methods
 * [ ] Add `PanelCredit` class methods
 * [ ] Add `CommunityPanel` class methods
