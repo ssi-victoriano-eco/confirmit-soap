@@ -56,6 +56,6 @@
 * [x] Add `DataTransfer` class methods
 * [x] Add `DatabaseDesigner` class methods
 * [x] Add `SampleManagement` class methods
-* [ ] Add `PanelCredit` class methods
+* [x] Add `PanelCredit` class methods
 * [ ] Add `CommunityPanel` class methods
 * [ ] Add `Capi` class methods
