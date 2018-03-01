@@ -50,7 +50,7 @@
 * [x] Add `LogOn` class methods
 * [x] Add `Authoring` class methods
 * [x] Add `SurveyData` class methods
-* [ ] Add `TaskManagement` class methods
+* [x] Add `TaskManagement` class methods
 * [x] Add `QuotaManagement` class methods
 * [x] Add `SurveyDeployer` class methods
 * [x] Add `DataTransfer` class methods
