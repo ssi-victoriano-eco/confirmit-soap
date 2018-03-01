@@ -53,7 +53,7 @@
 * [ ] Add `TaskManagement` class methods
 * [x] Add `QuotaManagement` class methods
 * [x] Add `SurveyDeployer` class methods
-* [ ] Add `DataTransfer` class methods
+* [x] Add `DataTransfer` class methods
 * [ ] Add `DatabaseDesigner` class methods
 * [ ] Add `SampleManagement` class methods
 * [ ] Add `PanelCredit` class methods
