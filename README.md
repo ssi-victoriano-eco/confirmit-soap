@@ -52,7 +52,7 @@
 * [x] Add `SurveyData` class methods
 * [ ] Add `TaskManagement` class methods
 * [x] Add `QuotaManagement` class methods
-* [ ] Add `SurveyDeployer` class methods
+* [x] Add `SurveyDeployer` class methods
 * [ ] Add `DataTransfer` class methods
 * [ ] Add `DatabaseDesigner` class methods
 * [ ] Add `SampleManagement` class methods
