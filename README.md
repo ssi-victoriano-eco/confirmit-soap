@@ -55,7 +55,7 @@
 * [x] Add `SurveyDeployer` class methods
 * [x] Add `DataTransfer` class methods
 * [x] Add `DatabaseDesigner` class methods
-* [ ] Add `SampleManagement` class methods
+* [x] Add `SampleManagement` class methods
 * [ ] Add `PanelCredit` class methods
 * [ ] Add `CommunityPanel` class methods
 * [ ] Add `Capi` class methods
