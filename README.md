@@ -27,7 +27,7 @@
 * Create the virtual environment
 
   ```bash
-  conda create -f conda-env.yml
+  conda env create -f conda-env.yml
   source activate rnd-confirmit-soap
   # to exit out of the virtual environment, execute this command
   # source deactivate
