@@ -57,5 +57,5 @@
 * [x] Add `DatabaseDesigner` class methods
 * [x] Add `SampleManagement` class methods
 * [x] Add `PanelCredit` class methods
-* [ ] Add `CommunityPanel` class methods
-* [ ] Add `Capi` class methods
+* [x] Add `CommunityPanel` class methods
+* [x] Add `Capi` class methods
