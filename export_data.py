@@ -1,6 +1,3 @@
-import sys, os
-sys.path.append(os.path.abspath('../'))
-
 from Confirmit.DatabaseType import DatabaseType
 from Confirmit.WebServices.Authoring import Authoring
 from Confirmit.WebServices.SurveyData import SurveyData
