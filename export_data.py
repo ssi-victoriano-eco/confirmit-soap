@@ -3,7 +3,6 @@ from Confirmit.WebServices.Authoring import Authoring
 from Confirmit.WebServices.SurveyData import SurveyData
 
 import time, json
-import zeep
 
 def GetConfirmitData(surveydata, projectId):
   token = None
@@ -46,5 +45,6 @@ if __name__ == '__main__':
   print('elapsed: ', time.time() - start)
 
   # write to file
-  with open('./.exports/{}.json'.format(projectId), 'w') as f:
+  json_file = './.exports/{}.json'.format(projectId)
+  with open(json_file, 'w') as f:
     f.write(json.dumps(data))
