@@ -27,5 +27,6 @@ class QuotaRow:
 
         if context is None:
             raise Exception('Please specify context')
-    
-        return self.GetObjectData(info, context)
+
+        self.info = info
+        self.context = context
