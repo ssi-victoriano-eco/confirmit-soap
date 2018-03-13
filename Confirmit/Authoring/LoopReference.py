@@ -1,6 +1,8 @@
-class LoopReference:
+from NamedEntityIdReference import NamedEntityIdReference
+
+class LoopReference(NamedEntityIdReference):
   
   def __init__(self):
     
-    self.EntityId = None
-    self.Name = None
+    self.EntityId = NamedEntityIdReference().EntityId
+    self.Name = NamedEntityIdReference().Name
